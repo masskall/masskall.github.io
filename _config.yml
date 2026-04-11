@@ -33,7 +33,7 @@ copyright_url            :
 # Site Author (左侧边栏个人简介)
 author:
   name             : "Chen Xi"
-  avatar           : # 若有头像请填路径，例如 "/assets/images/profile.jpg"，没有可暂时留空
+  avatar           : /assets/images/useer.jpg
   bio              : "AI Undergraduate at Macau University of Science and Technology. Passionate about exploring Artificial Intelligence, building machine learning models, and solving complex problems through technology."
   location         : "Macau, SAR"
   email            : "3464921481@qq.com"
