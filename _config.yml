@@ -38,9 +38,6 @@ author:
   location         : "Macau, SAR"
   email            : "3464921481@qq.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:3464921481@qq.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/must-ai-Chen Xi/"
